@@ -1,3 +1,5 @@
+package code;
+
 public class Math1 {
     static void decimalToAnyBase(int decimalNum, int base) {
         int resNum = 0;
