@@ -61,7 +61,7 @@ public class Math1 {
         }
         System.out.println(res);
         return res;
-    }
+    }r
 
     static String binary(int[]a,int len,int key){
         int l=0,h=len-1;
@@ -85,7 +85,7 @@ public class Math1 {
       // System.out.println(reverseNum(1534236469));
        int a[]={1,5,7,9,11,15,16,19};
       // binary(a,a.length,11);
-        System.out.println(binary(a,a.length,19));
+        System.out.println(binary(a,a.length,190));
     }
 }
 
